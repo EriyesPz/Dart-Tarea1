@@ -1,2 +1,3 @@
 # Dart-Tarea1
-Dart
+Erick Josue Reyes Paz - 20222001353
+Daniel Alejandro Pineda Domínguez - 20192001329
